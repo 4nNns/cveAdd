@@ -11,10 +11,10 @@ Vulnerability location: Obtain the module interface after logging in to the syst
 
 Click Retail Management - Retail Delivery to obtain the interface information through packet capture.
 
-<img src="./pic/4.jpg" alt="1" style="zoom:200%;" />
+<img src="./4.jpg" alt="1" style="zoom:200%;" />
 
-<img src="./pic/5.jpg" alt="1" style="zoom:200%;" />
+<img src="./5.jpg" alt="1" style="zoom:200%;" />
 
 You can directly read data information by accessing this path through an unlisted browser.
 
-<img src="./pic/6.jpg" alt="1" style="zoom:200%;" />
+<img src="./6.jpg" alt="1" style="zoom:200%;" />
