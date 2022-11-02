@@ -14,8 +14,8 @@
 
 点击系统管理-用户管理，在登录名称输入框内，插入payload点击查询。
 
-<img src="./pic/2.png" alt="1" style="zoom:200%;" />
+<img src="./2.png" alt="1" style="zoom:200%;" />
 
 查看后台日志，可以看出此payload拼接到SQL语句中进行查询。
 
-<img src="./pic/3.jpg" alt="1" style="zoom:200%;" />
+<img src="./3.jpg" alt="1" style="zoom:200%;" />
